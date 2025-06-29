@@ -7,15 +7,13 @@ VotingClassifier 기반으로 다양한 머신러닝 모델을 앙상블하여 �
 
 ## 🔗 링크
 
-- 📄 [고급 AI 프로젝트 보고서 (PDF or DOCX)](https://drive.google.com/...) *(업로드 시 링크 교체)*
+- 📄 [electric 발표자료 (PDF)](https://drive.google.com/file/d/1FMGRd7FMQlpytmS6FK6EzpGZeGOx67nb/view?usp=sharing) 
 
-- 📁 [GitHub Repository (Code only, with README)](https://github.com/...) *(코드 업로드 시 링크 교체)*
+- 📁 [GitHub Repository](https://github.com/thdcodud01/ev-charger-user-prediction) 
 
 📦 Data Files
 
-- 🔗 [Kaggle EV Charging Dataset](https://www.kaggle.com/datasets)
-
-- 🔗 [OpenChargeMap Dataset](https://openchargemap.org)
+- 🔗 [Kaggle EV Charging Dataset](https://www.kaggle.com/api/v1/datasets/download/valakhorasani/electric-vehicle-charging-patterns?dataset_version_number=1)
 
 ---
 
@@ -26,8 +24,6 @@ VotingClassifier 기반으로 다양한 머신러닝 모델을 앙상블하여 �
 ### 1️⃣ 데이터 준비
 
 - Kaggle EV 충전 데이터 다운로드  
-- OpenChargeMap 데이터 다운로드 및 병합  
-- 전처리 및 파생 변수 생성
 
 ### 2️⃣ Colab / Jupyter 노트북 열기
 
